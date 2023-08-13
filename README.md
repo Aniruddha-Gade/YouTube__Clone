@@ -11,12 +11,10 @@ It allows users to search for videos, view video details, and enjoy a responsive
 
 
 
- <img  font-size="2.25rem" align="center" width= 100px  src=https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/YT-logo-gif1.gif />
-
-
-
 <h2>🔗 Live link - [  https://clone-youtube-website.netlify.app/  ]</h2>
 
+ <img  font-size="2.25rem" align="center" width= 100px  src=https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/YT-logo-gif1.gif />
+ 
 ## Tech Stack 🛠️
 
 - ⚛️ React.js 
