@@ -1,5 +1,7 @@
 
-# <img  align="center" width= 70px  src="">  YouTube Clone
+# <img  align="center" width= 120px  src=https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/YT-logo-gif2.gif>  YouTube Clone
+
+
 
 # Video Sharing App 🎥📺🚀
 
@@ -7,6 +9,9 @@ This project is a recreation of the **YouTube interface**, built using React.js,
 and integrated with the Rapid API to fetch video data.  <br/>
 It allows users to search for videos, view video details, and enjoy a responsive user interface.  <br/>
 
+
+
+ <img  font-size="2.25rem" align="center" width= 100px  src=https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/YT-logo-gif1.gif />
 
 
 
@@ -17,27 +22,6 @@ It allows users to search for videos, view video details, and enjoy a responsive
 - ⚛️ React.js 
 - 🎨 Tailwind CSS 
 - 🚀 Rapid API
-
- # 📸 Screenshots
- 
- # Dark Mode
- # HomePage
- ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image1.png)
-
- # Search Result Page
- ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image2.png)
-
- # Video Details Page
- ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image3.png)
-
- # Comments
- ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image4.png)
- ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image5.png)
- 
- # Light Mode
- ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image6.png)
-  # Search Result Page
- ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image7.png)
 
 
 ## Features 🌟
@@ -76,6 +60,30 @@ Utilized several React hooks for efficient state management and dynamic behavior
 - `useEffect`
 - `useContext`
 - `useParams`
+
+
+
+ # 📸 Screenshots
+ 
+ # Dark Mode
+ # HomePage
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image1.png)
+
+ # Search Result Page
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image2.png)
+
+ # Video Details Page
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image3.png)
+
+ # Comments
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image4.png)
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image5.png)
+ 
+ # Light Mode
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image6.png)
+  # Search Result Page
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image7.png)
+
 
 
 📚 **React Library**:
