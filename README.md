@@ -60,6 +60,12 @@ Utilized several React hooks for efficient state management and dynamic behavior
 - `useParams`
 
 
+📚 **React Library**:
+
+- 📅 **dayjs**: Utilizes the Dayjs library to beautifully format dates.
+- 🎬 **react-player**: ReactPlayer library used to seamlessly embed and control videos in various formats.
+
+ 
 
  # 📸 Screenshots
  
@@ -84,9 +90,5 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 
 
-📚 **React Library**:
-
-- 📅 **dayjs**: Utilizes the Dayjs library to beautifully format dates.
-- 🎬 **react-player**: ReactPlayer library used to seamlessly embed and control videos in various formats.
 
 
