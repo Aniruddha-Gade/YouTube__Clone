@@ -16,7 +16,28 @@ It allows users to search for videos, view video details, and enjoy a responsive
 
 - ⚛️ React.js 
 - 🎨 Tailwind CSS 
-- 🚀 Rapid API 
+- 🚀 Rapid API
+
+ # 📸 Screenshots
+ 
+ # Dark Mode
+ # HomePage
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image1.png)
+
+ # Search Result Page
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image2.png)
+
+ # Video Details Page
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image3.png)
+
+ # Comments
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image4.png)
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image5.png)
+ 
+ # Light Mode
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image6.png)
+  # Search Result Page
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/YouTube__Clone/main/YT%20clone%20ss/image7.png)
 
 
 ## Features 🌟
@@ -60,4 +81,6 @@ Utilized several React hooks for efficient state management and dynamic behavior
 📚 **React Library**:
 
 - 📅 **dayjs**: Utilizes the Dayjs library to beautifully format dates.
+- 🎬 **react-player**: ReactPlayer library used to seamlessly embed and control videos in various formats.
+
 
