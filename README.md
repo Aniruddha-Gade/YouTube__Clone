@@ -67,7 +67,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
  
 
- # 📸 Screenshots
+ # 🖥️ Screen Preview
  
  # Dark Mode
  # HomePage
